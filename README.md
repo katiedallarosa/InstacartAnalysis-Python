@@ -1,7 +1,7 @@
 # Instacart Analysis using Python
 Acting as an analyst for Instacart, I'm diving into their sales data to uncover hidden patterns. My goal: refine their market segmentation strategies by conducting thorough exploratory analysis with Python. Stay tuned for insights that could redefine their approach and drive even better sales.
 # Project
-
+![Instacart logo](https://github.com/katiedallarosa/InstacartAnalysis-Python/blob/main/03-Instacart-Logo-Kale-1.webp)
 ## Objective
 In this project, I take on the role of an analyst for Instacart to explore sales patterns and customer behaviors. The goal is to unearth insights that will inform better customer segmentation and targeted marketing strategies.
 ## Context
