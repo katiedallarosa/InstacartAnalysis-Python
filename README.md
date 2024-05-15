@@ -20,10 +20,10 @@ The project leverages open-source datasets from Instacart, complemented by speci
 
 _Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this Achievement._
 ## Tools
-- Pandas: for data analysis
-- Numpy: for mathematical equations
-- Seaborn: for data visualizations
-- Matplotlib: for data visualizations
+- **Pandas**: for data analysis
+- **Numpy**: for mathematical equations
+- **Seaborn**: for data visualizations
+- **Matplotlib**: for data visualizations
 ## Stakeholders
 The insights derived from this analysis will cater to:
 - Vice President of Marketing
