@@ -36,6 +36,6 @@ The insights derived from this analysis will cater to:
 - 04 Analysis: Separated into two subfolders Reports and Visualizations. The Reports subfolder contains crosstabs and the Visualizations subfolder contains the visualizations used for developing and explaining insights.
 - 05 Sent to Client: Final report presented in Excel
 ## Final Deliverable
-For a comprehensive view of my findings and recommendations, please refer to the Final Project PDF as well as the Instacart Basket Analysis 2-2024 zip containing all data sets, graphs, and reports.
+For a comprehensive view of my findings and recommendations, please refer to the [Final Project Presentation](https://github.com/katiedallarosa/InstacartAnalysis-Python/blob/main/Instacart%20Grocery%20Basket%20Analysis_KDallaRosa.pdf) as well as the [Instacart Basket Analysis zip folder](https://github.com/katiedallarosa/InstacartAnalysis-Python/blob/main/04-2024%20Instacart%20Basket%20Analysis_KDallaRosa.zip) containing all data sets, graphs, and reports.
 
 This analysis is not only about uncovering current trends but also about predicting future customer behaviors, thereby enabling Instacart to stay ahead in a competitive market.
