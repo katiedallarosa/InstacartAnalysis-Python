@@ -24,7 +24,7 @@ _Note: Instacart is a real company that’s made their data available online. Ho
 - Numpy: for mathematical equations
 - Seaborn: for data visualizations
 - Matplotlib: for data visualizations
-- ## Stakeholders
+## Stakeholders
 The insights derived from this analysis will cater to:
 - Vice President of Marketing
 - Senior Vice President of Sales
