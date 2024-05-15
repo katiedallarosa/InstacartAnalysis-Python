@@ -30,11 +30,11 @@ The insights derived from this analysis will cater to:
 - Senior Vice President of Sales
 - Instacart Customers
 ## Folders
-- 01 Project Management: Project brief and data dictionary
-- 02 Data: Separated into two subfolders Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size.)
-- 03 Scripts: Jupyter notebooks containing coding for analysis
-- 04 Analysis: Separated into two subfolders Reports and Visualizations. The Reports subfolder contains crosstabs and the Visualizations subfolder contains the visualizations used for developing and explaining insights.
-- 05 Sent to Client: Final report presented in Excel
+- **01 Project Management**: Project brief and data dictionary
+- **02 Data**: Separated into two subfolders Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size.)
+- **03 Scripts**: Jupyter notebooks containing coding for analysis
+- **04 Analysis**: Separated into two subfolders Reports and Visualizations. The Reports subfolder contains crosstabs and the Visualizations subfolder contains the visualizations used for developing and explaining insights.
+- **05 Sent to Client**: Final report presented in Excel
 ## Final Deliverable
 For a comprehensive view of my findings and recommendations, please refer to the [Final Project Presentation](https://github.com/katiedallarosa/InstacartAnalysis-Python/blob/main/Instacart%20Grocery%20Basket%20Analysis_KDallaRosa.pdf) as well as the [Instacart Basket Analysis zip folder](https://github.com/katiedallarosa/InstacartAnalysis-Python/blob/main/04-2024%20Instacart%20Basket%20Analysis_KDallaRosa.zip) containing all data sets, graphs, and reports.
 
